@@ -1,0 +1,7 @@
+/build
+/dist
+/pyinstaller
+*.tsv
+*.json
+/.idea
+main.spec
