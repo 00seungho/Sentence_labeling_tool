@@ -4,4 +4,4 @@
 *.tsv
 *.json
 /.idea
-main.spec
+*.spec
